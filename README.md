@@ -1,5 +1,5 @@
 # nixos
-My NixOS configuration files.
+My NixOS configuration files. I'm not a full-time NixOS user, but I do hop over to it sometimes so I store my configurations here.
 
 # NixOS simple installation guide.
 
