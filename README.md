@@ -34,3 +34,7 @@ It's that fucking simple.
 
 nix-channel --update
 nixos-rebuild switch --upgrade
+
+# Screenshot of my desktop while I was using NixOS
+
+![Nix](https://github.com/tuxfanboy/nixos/blob/main/nixos-screenshot.png)
