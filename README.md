@@ -37,4 +37,6 @@ nixos-rebuild switch --upgrade
 
 # Screenshot of my desktop while I was using NixOS
 
+I use dwm most of the time, but in this screenshot I was using BSPWM. I will not release my BSPWM dotfiles.
+
 ![Nix](https://github.com/tuxfanboy/nixos/blob/main/nixos-screenshot.png)
