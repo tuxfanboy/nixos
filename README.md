@@ -33,6 +33,7 @@ It's that fucking simple.
 ## How to Update
 
 nix-channel --update
+
 nixos-rebuild switch --upgrade
 
 # Screenshot of my desktop while I was using NixOS
